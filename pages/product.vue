@@ -1,7 +1,7 @@
 <template>
   <section class="container">
     <div>
-      Welcome to my shop !
+      {{ product.name }}
     </div>
   </section>
 </template>
